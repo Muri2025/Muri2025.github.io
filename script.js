@@ -81,7 +81,13 @@ function renderHeader() {
 function renderFooter() {
   const footer = document.querySelector("[data-site-footer]");
   if (!footer) return;
-  footer.innerHTML = "";
+  const currentYear = new Date().getFullYear();
+
+  footer.innerHTML = `
+    <div class="footer-minimal">
+      <p>© ${currentYear} Murilo Corsulini. Todos os direitos reservados.</p>
+    </div>
+  `;
 }
 
 function renderPage() {
