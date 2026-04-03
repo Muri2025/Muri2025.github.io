@@ -84,7 +84,7 @@ window.portfolioData = {
       "Montagem e manutenção de computadores",
       "Sistemas operacionais: instalação, formatação e configuração",
       "Pacote Office: Word, Excel e PowerPoint",
-      "HTML, CSS, JavaScript, Java, PHP, C++, Desenvolvimento mobile E PORTUGOOOOOOOOOOOOL",
+      "HTML, CSS, JavaScript, Java, PHP, C++, Desenvolvimento mobile e PORTUGOOOOOOOOOOOOL",
       "Conceitos de lógica de programação e algoritmos"
     ],
     personal: [
@@ -171,16 +171,16 @@ window.portfolioData = {
     ]
   },
   contacts: {
-    emailLabel: "Adicionar seu e-mail",
-    emailHref: "",
-    phoneLabel: "Adicionar seu telefone",
-    phoneHref: "",
-    whatsappLabel: "Adicionar seu WhatsApp",
-    whatsappHref: "",
-    githubLabel: "Adicionar seu GitHub",
-    githubHref: "",
-    linkedinLabel: "Adicionar seu LinkedIn",
-    linkedinHref: "",
+    emailLabel: "Murilocorsulini@gmail.com",
+    emailHref: "mailto:Murilocorsulini@gmail.com",
+    phoneLabel: "19 98866-2243",
+    phoneHref: "tel:+5519988662243",
+    whatsappLabel: "19 98866-2243",
+    whatsappHref: "http://wa.me/19988662243",
+    githubLabel: "Muri2025",
+    githubHref: "https://github.com/Muri2025",
+    linkedinLabel: "Murilo de Oliveira Corsulini",
+    linkedinHref: "https://br.linkedin.com/in/murilo-de-oliveira-corsulini-148270393",
     cvLabel: "Adicionar link do currículo em PDF",
     cvHref: ""
   }

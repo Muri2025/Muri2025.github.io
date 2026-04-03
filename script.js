@@ -390,7 +390,7 @@ function renderResumePage() {
         </article>
         <article class="info-card">
           <h3>Foco técnico</h3>
-          <p>Manutenção, sistemas operacionais, noções de redes, suporte e desenvolvimento web básico.</p>
+          <p>Manutenção, sistemas operacionais, suporte e desenvolvimento web básico.</p>
         </article>
         <article class="info-card">
           <h3>Perfil</h3>
