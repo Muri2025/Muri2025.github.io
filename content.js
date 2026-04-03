@@ -61,7 +61,7 @@ window.portfolioData = {
     ]
   },
   featuredProject: {
-    name: "AI nel",
+    name: "AInel",
     tag: "Projeto destaque",
     place: "1º lugar",
     event: 'Hackathon "Inteligência Artificial e Metaverso nas Indústrias"',
@@ -83,13 +83,8 @@ window.portfolioData = {
     studies: [
       "Montagem e manutenção de computadores",
       "Sistemas operacionais: instalação, formatação e configuração",
-      "Noções básicas de redes: cabeamento, roteadores e IP",
       "Pacote Office: Word, Excel e PowerPoint",
-      "HTML, CSS e JavaScript",
-      "Java",
-      "PHP",
-      "C++",
-      "Desenvolvimento mobile",
+      "HTML, CSS, JavaScript, Java, PHP, C++, Desenvolvimento mobile E PORTUGOOOOOOOOOOOOL",
       "Conceitos de lógica de programação e algoritmos"
     ],
     personal: [
